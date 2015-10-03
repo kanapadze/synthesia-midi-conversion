@@ -36,3 +36,15 @@ To join bars use `Plug-ins > Measures > Merge measures`.
 
 * Scary "red" notes after scanning is actually layer 2 (red is the default screen display colour for Layer 2 notes).
 You may switch layers using `View > Select Layer` or `Shift+Alt+1`, `Shift+Alt+2`.
+
+##### Finale 2014 Speedy Entry Shortcuts
+
+Of course, it's absolutely necessary to use speedy entry to modify notes, it's much, much faster than "Simple Entry Tool".
+Check out the help page on the Finale site: [speedy entry cheat sheet](http://www.finalemusic.com/usermanuals/finale2012mac/Content/Finale/Speedy_Entry.htm).
+
+First of all, uncheck "Use MIDI device for input" in `Speedy > Speedy Options` to use keyboard.
+
+* `T` - tie (draws arc from the current note to the next note)
+* `1`...`8` - enter notes (`4` - eight note, `5` - quarter note, `6` - half note, etc.)
+* `.` - dot (adds dot to the note)
+
