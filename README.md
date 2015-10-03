@@ -4,8 +4,8 @@ Synthesia MIDI Conversion
 Music, software and documents about conversion of various file formats into Synthesia MIDI files.
 
 
-MIDI List
----------
+Download MIDI
+-------------
 
 * [Eric Thiman - Flood Time.mid](midi/Eric%20Thiman%20-%20Flood%20Time.mid?raw=true)
 * [Unknown Author - Murka.mid](midi/Unknown%20Author%20-%20Murka.mid?raw=true)
