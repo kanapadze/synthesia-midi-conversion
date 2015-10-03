@@ -32,6 +32,7 @@ LZW-compressed B/W TIFs at 150 DPI, because they are pretty small (use Levels to
 * Use `Measures` button and `Insert Measure Stack` in the context menu to insert missing bars.
 Make sure all time signatures are correct. If bar slows down in the end, its duration may be wrong.
 Reset bar to a proper timing (4/4, 2/4, etc.) using context menu of the `Time Signature Tool`.
+To join bars use `Plug-ins > Measures > Merge measures`.
 
 * Scary "red" notes after scanning is actually layer 2 (red is the default screen display colour for Layer 2 notes).
 You may switch layers using `View > Select Layer` or `Shift+Alt+1`, `Shift+Alt+2`.
