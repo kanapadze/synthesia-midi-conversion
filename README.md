@@ -25,7 +25,7 @@ Probably the best MIDI editor on the market. Includes very high quality sheet mu
 * Use File - Import - TIFF File, Add files to list. The rest will be done almost automatically.
 
 * Midi for Synthesia (with left and right hand support) can be exported without any additional hustle.
-	Open menu - Window - Score Manager - Instrument List, then select Ch. 1 (left hand) or 2 (right hand)
+	Open menu - Window - Score Manager - Instrument List, edit Ch. column - set 1 (left hand) or 2 (right hand)
 	for each track, then just use File - Export - MIDI File - Format 0 (without markers).
 
 * Finale 2014 supports both TIF and BMP files (both greyscale and B/W bitmaps). I personally use single-page
