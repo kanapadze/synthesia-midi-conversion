@@ -7,8 +7,8 @@ Music, software and documents about conversion of various file formats into Synt
 MIDI List
 ---------
 
-* [Eric Thiman - Flood Time.mid](raw/master/midi/Eric%20Thiman%20-%20Flood%20Time.mid)
-* [Unknown Author - Murka.mid](raw/master/midi/Unknown%20Author%20-%20Murka.mid)
+* [Eric Thiman - Flood Time.mid](../raw/master/midi/Eric%20Thiman%20-%20Flood%20Time.mid)
+* [Unknown Author - Murka.mid](../raw/master/midi/Unknown%20Author%20-%20Murka.mid)
 
 
 Documentation
