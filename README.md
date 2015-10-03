@@ -7,8 +7,6 @@ Music, software and documents about conversion of various file formats into Synt
 MIDI List
 ---------
 
-https://github.com/kanapadze/synthesia-midi-conversion/blob/master/midi/Eric%20Thiman%20-%20Flood%20Time.mid?raw=true
-
 * [Eric Thiman - Flood Time.mid](midi/Eric%20Thiman%20-%20Flood%20Time.mid?raw=true)
 * [Unknown Author - Murka.mid](midi/Unknown%20Author%20-%20Murka.mid?raw=true)
 
