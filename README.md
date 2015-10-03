@@ -4,12 +4,21 @@ Synthesia MIDI Conversion
 Music, software and documents about conversion of various file formats into Synthesia MIDI files.
 
 
-Finale 2014
------------
+MIDI List
+---------
+
+* [Eric Thiman - Flood Time.mid](raw/master/midi/Eric%20Thiman%20-%20Flood%20Time.mid)
+* [Unknown Author - Murka.mid](raw/master/midi/Unknown%20Author%20-%20Murka.mid)
+
+
+Documentation
+-------------
+
+#### Finale 2014
 
 Probably the best MIDI editor on the market. Includes very high quality sheet music OCR software
 
-#### Notes
+##### Notes
 
 * Space+Left Click - play from the mouse position (most useful shortcut in Finale).
 
@@ -21,4 +30,5 @@ Probably the best MIDI editor on the market. Includes very high quality sheet mu
 
 * Finale 2014 supports both TIF and BMP files (both greyscale and B/W bitmaps). I personally use single-page
 	LZW-compressed B/W TIFs at 150 DPI, because they are pretty small (use Levels tool from Photoshop to adjust brightness).
+
 
