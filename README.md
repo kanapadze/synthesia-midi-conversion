@@ -16,7 +16,7 @@ Documentation
 
 #### Finale 2014
 
-Probably the best MIDI editor on the planet, Includes **very** high quality sheet music OCR software.
+Probably the best optical recognition software on the planet. Bad and very outdated user interface.
 
 * `Space+Left Click` - play from the mouse position (most useful shortcut in Finale).
 
@@ -47,4 +47,9 @@ First of all, uncheck "Use MIDI device for input" in `Speedy > Speedy Options` t
 * `T` - tie (draws arc from the current note to the next note)
 * `1`...`8` - enter notes (`4` - eight note, `5` - quarter note, `6` - half note, etc.)
 * `.` - dot (adds dot to the note)
+
+#### MuseScore (FREE)
+
+Free and very promising. Fixing scores seems easier. Uses terrible free audiveris OCR library (in the browser).
+Modern editing, good buttons and shortcuts (Finale 2014 looks bad in comparison).
 
