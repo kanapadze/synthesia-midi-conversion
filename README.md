@@ -18,7 +18,7 @@ Documentation
 
 Probably the best MIDI editor on the planet, Includes **very** high quality sheet music OCR software.
 
-* Space+Left Click - play from the mouse position (most useful shortcut in Finale).
+* `Space+Left Click` - play from the mouse position (most useful shortcut in Finale).
 
 * Use `File > Import > TIFF File`, `Add files to list`. The rest will be done almost automatically.
 
