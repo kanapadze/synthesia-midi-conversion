@@ -7,9 +7,8 @@ Music, software and documents about conversion of various file formats into Synt
 Download MIDI
 -------------
 
-* [Eric Thiman - Flood Time.mid](midi/Eric%20Thiman%20-%20Flood%20Time.mid?raw=true)
-* [Unknown Author - Murka.mid](midi/Unknown%20Author%20-%20Murka.mid?raw=true)
-
+* [Eric Thiman - Flood Time.mid](midi/Eric Thiman - Flood Time.mid?raw=true)
+* [Unknown Author - Murka.mid](midi/Unknown Author - Murka.mid?raw=true)
 
 Documentation
 -------------
@@ -29,4 +28,7 @@ Probably the best MIDI editor on the planet, Includes **very** high quality shee
 * Finale 2014 supports both TIF and BMP files (both greyscale and B/W bitmaps). I personally use single-page
 	LZW-compressed B/W TIFs at 150 DPI, because they are pretty small (use Levels tool from Photoshop to adjust brightness).
 
+* Use `Measures` button and `Insert Measure Stack` in the context menu to insert missing bars.
+Make sure all time signatures are correct. If bar slows down in the end, its duration may be wrong.
+Reset bar to a proper timing (4/4, 2/4, etc.) using context menu of the `Time Signature Tool`.
 
