@@ -18,6 +18,8 @@ Documentation
 
 Probably the best optical recognition software on the planet. Bad and very outdated user interface.
 
+* Switch to Microsoft GS Wavetable Synth for clarity in `MIDI/Audio > Device setup > MIDI Setup`.
+
 * `Space+Left Click` - play from the mouse position (most useful shortcut in Finale).
 
 * Use `File > Import > TIFF File`, `Add files to list`. The rest will be done almost automatically.
