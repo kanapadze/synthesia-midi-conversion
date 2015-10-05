@@ -31,7 +31,8 @@ You may switch layers using `View > Select Layer` or `Shift+Alt+1`, `Shift+Alt+2
 
 * Midi for Synthesia (with left and right hand support) can be exported without any additional hustle.
 Open `Window > Score Manager` switch to `Instrument List`, edit `Ch.` column (set 1 for left hand or 2 for right hand)
-for each track, then just use `File > Export > MIDI File`, `Format 0` (without markers).
+for each track, then just use `File > Export > MIDI File`, `Format 0` (without markers). You can also expand Staff 1 or Staff 2
+and assign Layer 2 to another hand (bass notes on Layer 2 are usually played with the right hand).
 
 * Use `Measures` button and `Insert Measure Stack` in the context menu to insert missing bars.
 Make sure all time signatures are correct. If bar slows down in the end, its duration may be wrong.
